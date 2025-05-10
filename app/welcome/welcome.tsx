@@ -89,16 +89,8 @@ export function Welcome() {
 
 const resources = [
   {
-    href: "/mypage",
-    text: "My Page",
-  },
-  {
-    href: "/signin",
-    text: "Sign In",
-  },
-  {
-    href: "/signout",
-    text: "Sign Out",
+    href: "/video",
+    text: "Video sample",
   },
   {
     href: "/detail",
