@@ -1,0 +1,5 @@
+{
+  "prettier.configPath": ".prettierrc.js",
+  "editor.formatOnSave": true,
+  "cline.preferredLanguage": "Japanese - 日本語"
+}
